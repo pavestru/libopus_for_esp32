@@ -11,7 +11,7 @@
 /* #undef CUSTOM_MODES */
 
 /* Do not build the float API */
-#define DISABLE_FLOAT_API 1
+// #define DISABLE_FLOAT_API 1
 
 /* Assertions */
 /* #undef ENABLE_ASSERTIONS */
@@ -164,7 +164,7 @@
 #define PACKAGE_NAME "opus"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "opus 1.2.1"
+#define PACKAGE_STRING "opus 1.3.1"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "opus"
@@ -173,7 +173,7 @@
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "1.2.1"
+#define PACKAGE_VERSION "1.3.1"
 
 /* Define to 1 if you have the ANSI C header files. */
 #define STDC_HEADERS 1

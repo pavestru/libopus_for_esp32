@@ -121,7 +121,6 @@ void silk_quant_LTP_gains(
         }
     }
 
-    res_nrg_Q15 = 0;
     if( nb_subfr == 2 ) {
         res_nrg_Q15 = silk_RSHIFT32( res_nrg_Q15, 1 );
     } else {

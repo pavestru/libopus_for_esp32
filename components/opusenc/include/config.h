@@ -56,7 +56,7 @@
 #define PACKAGE_NAME "libopusenc"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "libopusenc 0.1"
+#define PACKAGE_STRING "libopusenc 0.2.1"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "libopusenc"
@@ -65,7 +65,7 @@
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "0.1"
+#define PACKAGE_VERSION "0.2.1"
 
 /* Faster, takes more memory */
 #define RESAMPLE_FULL_SINC_TABLE 1
