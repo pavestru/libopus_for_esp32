@@ -3,7 +3,7 @@ Experiments to port libopus encode/decoder to esp32
 
 Original sources by the authors of Opus: http://opus-codec.org
 
-Use opus-1.2.1 and libopusenc-0.1
+Use opus-1.3.1 and libopusenc-0.2.1
 
 =================================================================================
 
